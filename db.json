@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 0, "text": "do it", "date": "21.12.2022", "completed": 0 },
+    { "id": 1, "text": "it it", "date": "33.22.2022", "completed": 0 },
+    { "id": 2, "text": "do do", "date": "44.11.2022", "completed": 0 }
+  ]
+}
