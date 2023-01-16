@@ -4,14 +4,43 @@
       "id": 0,
       "text": "Этими «четырьмя прилично одетыми молодыми гражданами» были «новокрестьянские» поэты: Сергей Александрович Есенин, Алексей Алексеевич Ганин, Петр Васильевич Орешин и Сергей Антонович Клычков.",
       "date": "21.12.2022",
-      "completed": false
+      "completed": false,
+      "archieved": false
     },
     {
       "id": 1,
       "text": "Сходить в магаз",
       "date": "31.11.2023",
-      "completed": false
+      "completed": false,
+      "archieved": false
     },
-    { "id": 2, "text": "Поесть", "date": "22.01.2024", "completed": true }
+    {
+      "id": 2,
+      "text": "Поесть",
+      "date": "22.01.2024",
+      "completed": true,
+      "archieved": false
+    },
+    {
+      "id": 3,
+      "text": "Сходить в озон",
+      "date": "31.11.2023",
+      "completed": false,
+      "archieved": false
+    },
+    {
+      "id": 4,
+      "text": "В кино",
+      "date": "31.11.2023",
+      "completed": false,
+      "archieved": false
+    },
+    {
+      "id": 5,
+      "text": "Душ",
+      "date": "31.11.2023",
+      "completed": false,
+      "archieved": true
+    }
   ]
 }
